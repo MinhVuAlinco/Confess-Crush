@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "He nhô, a Dũ nè :))",
+    titleWeb: "He nhô, a Dũ nè :)))",
     introTitle: 'Em',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'inbox anh lên lịch ngay nèo',
+    messDesc: 'Inbox anh lên lịch ngay nèo',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/vunm.ute/' 
 }
